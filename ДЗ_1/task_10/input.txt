@@ -1,0 +1,7 @@
+id;name;h;strike;color
+1;Chicken;12;0.38;Yellow
+2;Goose;18;0.11;Green
+3;Orca;8;0.81;Yellow
+4;Porcupine;19;0.74;Yellow
+5;Bear;23;0.14;Green
+6;Turtle;4;0.08;Black

@@ -1,2 +1,6 @@
-# unix
-Homeworks on discipline about UNIX.
+## unix
+
+Домашние задания по дисциплине про UNIX.
+
+#### Файлы:
++ ДЗ_1 - домашнее задание 1.
